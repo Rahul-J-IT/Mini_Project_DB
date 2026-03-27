@@ -75,7 +75,7 @@ This project implements a data pipeline using the medallion architecture (Bronze
   - Visualize Gold layer metrics.
 - **KPIs**: Custom metrics as per business requirements.
 
-![image_1774592739244.png](./image_1774592739244.png "image_1774592739244.png")
+![image_1774593153496.png](./image_1774593153496.png "image_1774593153496.png")
 
 ---
 
