@@ -65,6 +65,9 @@ This project implements a data pipeline using the medallion architecture (Bronze
   3. Aggregate to Gold.
   4. Schedules & Triggers At 04:00 AM every day.
 
+ ![image_1774597408482.png](./image_1774597408482.png "image_1774597408482.png") 
+
+![image_1774597351990.png](./image_1774597351990.png "image_1774597351990.png")
 
 ---
 
